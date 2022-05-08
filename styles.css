@@ -175,6 +175,11 @@ html{
     font-size: 18px;
     color: #FFFFFF;
     cursor: pointer;
+    transition: 0.9s;
+}
+
+.action:hover{
+    transform: scale(1.1);
 }
 
 /* Fim Sabores */
@@ -220,7 +225,6 @@ footer p {
     }
 
     .main h1{
-    
         color: #ffffff; 
         margin-left: 0px;
     }
